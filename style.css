@@ -131,6 +131,7 @@ font-size: .9rem;
 	background-color: rgba(0,0,0,0.3);
 }
 .container {
+    position: relative;
     margin: 0 auto;
     max-width: 1400px;
     z-index: 9;
@@ -147,6 +148,7 @@ font-size: .9rem;
     position:relative;
     font-family: 'Karla';
     font-weight: 100;
+    
       
 }
 .title-line span {
@@ -178,7 +180,7 @@ font-size: .9rem;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    padding: 60px;
+    padding: 200px 60px;
     min-height: 500px;
   }
   .txt-concept {
@@ -188,7 +190,20 @@ font-size: .9rem;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    padding: 30px;
+    padding: 190px 30px 90px 30px;
     min-height: 30vh;
+
+  }
+  .img-flot-1 {
+    position: absolute;
+    top: -166px;
+    left: -161px;
+    z-index: 999;
+  }
+  .img-flot-2 {
+    position: absolute;
+    top: 677px;
+    right: -269px;
+    z-index: 99;
 
   }
