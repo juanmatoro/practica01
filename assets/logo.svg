@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 153.6 106.2" style="enable-background:new 0 0 153.6 106.2;" xml:space="preserve">
+	 viewBox="0 0 163.1 106.2" style="enable-background:new 0 0 163.1 106.2;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#CAB290;}
 	.st1{fill:#FFFFFD;}
 	.st2{font-family:'Antonio-Bold';}
-	.st3{font-size:30.374px;}
-	.st4{letter-spacing:3;}
+	.st3{font-size:36px;}
+	.st4{letter-spacing:3.2;}
 	.st5{fill:none;}
 	.st6{fill:#FFFFFF;}
 	.st7{font-family:'RobotoSlab-Regular';}
 	.st8{font-size:7.2155px;}
-	.st9{letter-spacing:1;}
+	.st9{letter-spacing:0.9;}
 	.st10{fill:none;stroke:#CAB290;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
 <g>
 	<g>
-		<polygon class="st0" points="80,39.9 77.1,38.3 74.1,39.8 74.7,36.6 72.3,34.2 75.6,33.7 77.1,30.7 78.6,33.8 81.9,34.3 
-			79.5,36.6 		"/>
-		<polygon class="st0" points="62.8,42.1 60.4,40.8 58,42.1 58.5,39.4 56.6,37.5 59.2,37.2 60.4,34.8 61.6,37.2 64.3,37.6 
-			62.3,39.4 		"/>
-		<polygon class="st0" points="96.1,41.9 93.7,40.6 91.4,41.9 91.8,39.2 89.9,37.3 92.6,37 93.8,34.6 95,37 97.6,37.4 95.7,39.2 		
+		<polygon class="st0" points="82,38.9 79.1,37.3 76.1,38.8 76.7,35.6 74.3,33.2 77.6,32.7 79.1,29.7 80.6,32.8 83.9,33.3 
+			81.5,35.6 		"/>
+		<polygon class="st0" points="64.8,41.1 62.4,39.8 60,41.1 60.5,38.4 58.6,36.5 61.2,36.2 62.4,33.8 63.6,36.2 66.3,36.6 
+			64.3,38.4 		"/>
+		<polygon class="st0" points="98.1,40.9 95.7,39.6 93.4,40.9 93.8,38.2 91.9,36.3 94.6,36 95.8,33.6 97,36 99.6,36.4 97.7,38.2 		
 			"/>
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 22.5998 82.8961)" class="st1 st2 st3 st4">CarnazaE</text>
+			<text transform="matrix(0.9508 0 0 1 15.9234 80.5117)" class="st1 st2 st3 st4">Carnaza</text>
 		</g>
-		<path id="SVGID_x5F_1_x5F_" class="st5" d="M25.6,47.3C29.3,23.3,50.9,4.9,77.1,4.9s47.8,18.4,51.5,42.3"/>
+		<path id="SVGID_x5F_1_x5F_" class="st5" d="M21.1,47.3C25.3,23.3,50.4,4.9,80.7,4.9s55.4,18.4,59.6,42.3"/>
 		<text>		<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="16.3255%">
-<tspan  class="st6 st7" style="font-size:5.7874px; letter-spacing:807;">EMBLEM DESIGN</tspan>		</textPath>
+<tspan  class="st6 st7" style="font-size:5.7874px; letter-spacing:696.7;">EMBLEM DESIGN</tspan>		</textPath>
 </text>
-		<text transform="matrix(1 0 0 1 49.633 104.0221)" class="st6 st7 st8 st9">SINCE 1970</text>
+		<text transform="matrix(1.1583 0 0 1 48.8877 104.0225)" class="st6 st7 st8 st9">SINCE 1970</text>
 	</g>
 	<g>
 		<g>
 			<g>
-				<line class="st10" x1="0" y1="64.4" x2="13.5" y2="64.4"/>
-				<line class="st10" x1="0" y1="70.3" x2="13.5" y2="70.3"/>
-				<line class="st10" x1="0" y1="76.2" x2="13.5" y2="76.2"/>
+				<line class="st10" x1="2" y1="63.4" x2="15.5" y2="63.4"/>
+				<line class="st10" x1="2" y1="69.3" x2="15.5" y2="69.3"/>
+				<line class="st10" x1="2" y1="75.2" x2="15.5" y2="75.2"/>
 			</g>
 			<g>
-				<line class="st10" x1="137.9" y1="64.4" x2="151.4" y2="64.4"/>
-				<line class="st10" x1="137.9" y1="70.3" x2="151.4" y2="70.3"/>
-				<line class="st10" x1="137.9" y1="76.2" x2="151.4" y2="76.2"/>
+				<line class="st10" x1="139.9" y1="63.4" x2="153.4" y2="63.4"/>
+				<line class="st10" x1="139.9" y1="69.3" x2="153.4" y2="69.3"/>
+				<line class="st10" x1="139.9" y1="75.2" x2="153.4" y2="75.2"/>
 			</g>
 		</g>
 		<g>
-			<line class="st10" x1="11.4" y1="47.5" x2="141.9" y2="47.5"/>
-			<path class="st10" d="M47.3,47.5C49.4,33.6,61.9,23,77.1,23s27.7,10.7,29.8,24.5"/>
-			<path class="st10" d="M35.6,47.5C38.5,28.2,56,13.3,77.1,13.3s38.6,14.8,41.5,34.2"/>
+			<line class="st10" x1="13.4" y1="46.5" x2="143.9" y2="46.5"/>
+			<path class="st10" d="M49.3,46.5C51.4,32.6,63.9,22,79.1,22s27.7,10.7,29.8,24.5"/>
+			<path class="st10" d="M37.6,46.5C40.5,27.2,58,12.3,79.1,12.3s38.6,14.8,41.5,34.2"/>
 		</g>
 		<g>
-			<line class="st10" x1="11.4" y1="93" x2="141.9" y2="93"/>
+			<line class="st10" x1="13.4" y1="92" x2="143.9" y2="92"/>
 			<g>
 				<g>
-					<path class="st0" d="M42.2,101.3c-1.1,0.2-2.1,0.3-3.2,0.5l-3.2,0h-6.3h-6.3H20c-1.1-0.2-2.1-0.3-3.2-0.5
-						c1.1-0.2,2.1-0.3,3.2-0.5h3.2h6.3h6.3l3.2,0C40.1,101,41.1,101.1,42.2,101.3z"/>
+					<path class="st0" d="M44.2,100.3c-1.1,0.2-2.1,0.3-3.2,0.5l-3.2,0h-6.3h-6.3H22c-1.1-0.2-2.1-0.3-3.2-0.5
+						c1.1-0.2,2.1-0.3,3.2-0.5h3.2h6.3h6.3l3.2,0C42.1,100,43.1,100.1,44.2,100.3z"/>
 				</g>
 				<g>
-					<path class="st0" d="M131,101.3c-1.1,0.2-2.1,0.3-3.2,0.5l-3.2,0h-6.3H112h-3.2c-1.1-0.2-2.1-0.3-3.2-0.5
-						c1.1-0.2,2.1-0.3,3.2-0.5h3.2h6.3h6.3l3.2,0C128.9,101,130,101.1,131,101.3z"/>
+					<path class="st0" d="M133,100.3c-1.1,0.2-2.1,0.3-3.2,0.5l-3.2,0h-6.3H114h-3.2c-1.1-0.2-2.1-0.3-3.2-0.5
+						c1.1-0.2,2.1-0.3,3.2-0.5h3.2h6.3h6.3l3.2,0C130.9,100,132,100.1,133,100.3z"/>
 				</g>
 			</g>
 		</g>
